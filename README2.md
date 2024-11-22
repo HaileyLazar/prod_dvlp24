@@ -17,3 +17,9 @@ Author: Hailey Lazar
 - [ ] Shomer Shabbos
 - [ ] Tznius
 ========================
+
+# Other tools
+
+ + Chizzuk in your life
+ + Pocket vort on the Parshas
+ + nearest frum community to you
