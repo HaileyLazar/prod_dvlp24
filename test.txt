@@ -2,10 +2,5 @@ Title
 Sub
 
 Paragraph
-<<<<<<< HEAD
-HELLO here- conflict
-    ------------
-=======
     Indentions
     ------------
->>>>>>> main
