@@ -2,5 +2,13 @@ Title
 Sub
 
 Paragraph
-HELLO here- conflict
+    Indentions
     ------------
+
+Wow double line
+Wow double line
+----
+Second
+----
+Third
+----
